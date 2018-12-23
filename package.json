@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/NegaAshley/DeployingDemo/issues"
   },
-  "homepage": "https://github.com/NegaAshley/DeployingDemo#readme"
+  "homepage": "https://github.com/NegaAshley/DeployingDemo#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  }
 }
