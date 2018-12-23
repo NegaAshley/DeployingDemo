@@ -12,7 +12,7 @@
     "url": "git+https://github.com/NegaAshley/DeployingDemo.git"
   },
   "author": "Ashley Xu",
-  "url": "https://polar-river-54895.herokuapp.com/"
+  "url": "https://polar-river-54895.herokuapp.com/",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/NegaAshley/DeployingDemo/issues"
